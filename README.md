@@ -8,3 +8,4 @@ import-module E:\Allfiles\Modules\Select-20533ESubscriptionARM
 import-module E:\Allfiles\Modules\Set-20533EEnvironment
 import-module E:\Allfiles\Modules\Set-20533EVMSize
 Add-20533EEnvironment
+Remove-20533EEnvironment
